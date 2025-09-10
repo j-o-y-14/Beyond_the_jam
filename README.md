@@ -45,7 +45,7 @@ GitHub → Project documentation and version control.
 
 ### Methodology
 
-Data Collection
+## 1.Data Collection
 
 INRIX Global Traffic Scorecard (2024)
 
@@ -57,7 +57,7 @@ UN World Urbanization Prospects (2023)
 
 Global Competitiveness Report (2019)
 
-Data Cleaning & Preparation
+## 2.Data Cleaning & Preparation
 
 Standardized country names, units, and fields.
 
@@ -65,7 +65,7 @@ Removed duplicates and missing values.
 
 Created calculated fields (average delays, congestion per capita, etc.).
 
-Data Analysis & Visualization
+## 3.Data Analysis & Visualization
 
 Imported cleaned datasets into Tableau.
 
